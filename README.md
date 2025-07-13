@@ -137,3 +137,9 @@ This project is licensed under the MIT License.
 - [React](https://react.dev/), [Express](https://expressjs.com/), [MongoDB](https://mongodb.com/), [Tailwind CSS](https://tailwindcss.com/)
 
 ## Deployed Link will be added soon !!
+
+---
+
+## Author
+
+  Shubham
