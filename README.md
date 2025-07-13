@@ -21,9 +21,9 @@ A full-stack Spotify-inspired music streaming web application. Enjoy seamless mu
 
 > _Add your screenshots here_
 
-| Home Page                            | Album Page                             | Admin Dashboard                      |
-| ------------------------------------ | -------------------------------------- | ------------------------------------ |
-| ![Home](frontend/public/spotify.png) | ![Album](frontend/public/albums/1.jpg) | ![Admin](frontend/public/google.png) |
+| Home Page                       | Admin Page                       | Chat Section Dashboard          |
+| ------------------------------- | -------------------------------- | ------------------------------- |
+| ![Home](frontend/public/11.png) | ![Admin](frontend/public/22.png) | ![Chat](frontend/public/33.png) |
 
 ---
 
