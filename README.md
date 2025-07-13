@@ -91,7 +91,7 @@ A full-stack Spotify-inspired music streaming web application. Enjoy seamless mu
    ```
 
 6. **Visit:**
-   - Frontend: [http://localhost:5173](http://localhost:5173)
+   - Frontend: [http://localhost:5173](http://localhost:3000)
    - Backend: [http://localhost:5000](http://localhost:5000) (default)
 
 ---
