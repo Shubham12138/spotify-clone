@@ -135,4 +135,5 @@ This project is licensed under the MIT License.
 
 - [Spotify](https://spotify.com) for inspiration
 - [React](https://react.dev/), [Express](https://expressjs.com/), [MongoDB](https://mongodb.com/), [Tailwind CSS](https://tailwindcss.com/)
-- All open-source contributors
+
+## Deployed Link will be added soon !!
